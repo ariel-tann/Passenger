@@ -1,0 +1,10 @@
+/Users/ariel/Projects/Passenger/Passenger/bin/Debug/netcoreapp3.1/Passenger.deps.json
+/Users/ariel/Projects/Passenger/Passenger/bin/Debug/netcoreapp3.1/Passenger.runtimeconfig.json
+/Users/ariel/Projects/Passenger/Passenger/bin/Debug/netcoreapp3.1/Passenger.runtimeconfig.dev.json
+/Users/ariel/Projects/Passenger/Passenger/bin/Debug/netcoreapp3.1/Passenger.dll
+/Users/ariel/Projects/Passenger/Passenger/bin/Debug/netcoreapp3.1/Passenger.pdb
+/Users/ariel/Projects/Passenger/Passenger/obj/Debug/netcoreapp3.1/Passenger.csprojAssemblyReference.cache
+/Users/ariel/Projects/Passenger/Passenger/obj/Debug/netcoreapp3.1/Passenger.AssemblyInfoInputs.cache
+/Users/ariel/Projects/Passenger/Passenger/obj/Debug/netcoreapp3.1/Passenger.AssemblyInfo.cs
+/Users/ariel/Projects/Passenger/Passenger/obj/Debug/netcoreapp3.1/Passenger.dll
+/Users/ariel/Projects/Passenger/Passenger/obj/Debug/netcoreapp3.1/Passenger.pdb
